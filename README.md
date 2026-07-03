@@ -1,1 +1,1 @@
-# JavaScript_basic_kadai
+# javascript_basic_kadai
